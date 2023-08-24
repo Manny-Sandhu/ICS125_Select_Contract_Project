@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<contractList>
+    <contract>
+        <contractID>4RDW</contractID>
+        <originCity>Victoria</originCity>
+        <destCity>Prince George</destCity>
+        <orderItem>Flowers</orderItem>
+    </contract>
+    <contract>
+        <contractID>4LDW</contractID>
+        <originCity>Nanaimo</originCity>
+        <destCity>Prince George</destCity>
+        <orderItem>Flowers</orderItem>
+    </contract>
+    <contract>
+        <contractID>8EKD</contractID>
+        <originCity>Vancouver</originCity>
+        <destCity>Victoria</destCity>
+        <orderItem>Vegetable</orderItem>
+    </contract>
+    <contract>
+        <contractID>3HQC</contractID>
+        <originCity>Seattle</originCity>
+        <destCity>Vancouver</destCity>
+        <orderItem>Pharmaceuical</orderItem>
+    </contract>
+    <contract>
+        <contractID>4ABC</contractID>
+        <originCity>Prince George</originCity>
+        <destCity>Vancouver</destCity>
+        <orderItem>Thing</orderItem>
+    </contract>
+<contract><contractID>4TRE</contractID><originCity>Victoria</originCity><destCity>Seattle</destCity><orderItem>thing</orderItem></contract><contract><contractID>5KSD</contractID><originCity>Seattle</originCity><destCity>Nanaimo</destCity><orderItem>Thing 2</orderItem></contract><contract><contractID>4RFG</contractID><originCity>Victoria</originCity><destCity>Vancouver</destCity><orderItem>red</orderItem></contract></contractList>
